@@ -3,4 +3,14 @@ baseURL = 'https://www.computermediatedmonologue.com/'
 languageCode = 'en-us'
 title = 'A Computer Mediated Monologue'
 publishdir = './docs/'
+paginate = '3'
 
+
+hasCJKLanguage: true
+permalinks:
+  posts: /posts/:title/
+
+  markup:
+    highlight:
+      guessSyntax: true
+      style: emacs
