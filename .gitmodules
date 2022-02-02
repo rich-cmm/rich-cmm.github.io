@@ -10,3 +10,9 @@
 [submodule "themes/archie"]
 	path = themes/archie
 	url = https://github.com/athul/archie.git
+[submodule "themes/themes/mini"]
+	path = themes/themes/mini
+	url = https://github.com/nodejh/hugo-theme-mini.git
+[submodule "themes/mini"]
+	path = themes/mini
+	url = https://github.com/nodejh/hugo-theme-mini.git
