@@ -1,4 +1,4 @@
-theme = "ananke"
+theme = "hugo-kiera"
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
