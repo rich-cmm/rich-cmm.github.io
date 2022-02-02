@@ -1,7 +1,7 @@
 theme = "hugo-kiera"
-baseURL = 'http://example.org/'
+baseURL = 'https://www.computermediatedmonologue.com'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'A Computer Mediated Monologue'
 publishdir = './docs/'
 
 [author]
