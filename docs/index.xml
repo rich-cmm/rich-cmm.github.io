@@ -8,22 +8,24 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Feb 2022 20:44:28 +0000</lastBuildDate><atom:link href="https://www.computermediatedmonologue.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About Hugo</title>
+      <title>About the Author</title>
       <link>https://www.computermediatedmonologue.com/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.computermediatedmonologue.com/about/</guid>
-      <description>Hugo is a static site engine written in Go. It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.</description>
+      <description>A sound engineer for a decade (some twenty years ago - the systems I know now feature in the &amp;lsquo;heritage&amp;rsquo; pages), itinerant contractor/temp for a few more years (including a stint answering Gordon Brown&amp;rsquo;s correspondence) and now a Detective Constable for the London police service that isn&amp;rsquo;t CoLP.
+Currently working on a central London robbery squad having come from a south London CID &amp;lsquo;main office&amp;rsquo;.
+Keen amateur technologist, I set my first website up at school in &amp;lsquo;96 and still occasionally dine out on that triumph and narrowly missed the opportunity to become a Dotcom millionaire by virtue of the fact that I lived in deepest, darkest rural Essex.</description>
     </item>
     
     <item>
-      <title>My First Post</title>
-      <link>https://www.computermediatedmonologue.com/posts/my-first-post/</link>
+      <title>Introductions</title>
+      <link>https://www.computermediatedmonologue.com/posts/introductions/</link>
       <pubDate>Wed, 02 Feb 2022 20:44:28 +0000</pubDate>
       
-      <guid>https://www.computermediatedmonologue.com/posts/my-first-post/</guid>
-      <description>Hello World!</description>
+      <guid>https://www.computermediatedmonologue.com/posts/introductions/</guid>
+      <description>In this age of Substacks and Mediums, I have decided to revert to an old fashioned blog, similar to the sort of sites I used to chuck up in the late nineties (does anyone else remember Geocities?) in the hope that someone else finds it useful.
+This won&amp;rsquo;t be an unfiltered stream-of-consciousness, because a) it&amp;rsquo;s implicitly linked to my real identity and b) I&amp;rsquo;m not Dom, so nobody is going to be that interested in it.</description>
     </item>
     
   </channel>
