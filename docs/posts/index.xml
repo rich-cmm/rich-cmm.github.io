@@ -17,7 +17,7 @@
        <pubDate>Wed, 02 Feb 2022 20:44:28 +0000</pubDate>
        
        <guid>http://example.org/posts/my-first-post/</guid>
-       <description>&lt;p&gt;Hello World! This is (presumably) the first post from Hugo.&lt;/p&gt;</description>
+       <description>&lt;p&gt;Hello World!&lt;/p&gt;</description>
      </item>
    
  </channel>

@@ -3,3 +3,8 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 publishdir = './docs/'
+
+[author]
+
+	name = "RichR"
+	linkedin = "richard-roberts-9b3b25228"
