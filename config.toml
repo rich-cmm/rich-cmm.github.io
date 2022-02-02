@@ -1,10 +1,25 @@
-theme = "hugo-kiera"
-baseURL = 'https://www.computermediatedmonologue.com'
+theme = "archie"
+baseURL = 'https://www.computermediatedmonologue.com/'
 languageCode = 'en-us'
 title = 'A Computer Mediated Monologue'
 publishdir = './docs/'
 
-[author]
+[params]
+	mode="auto" # color-mode → light,dark,toggle or auto
+	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
+	subtitle = "a computer mediated monologue"
 
-	name = "RichR"
-	linkedin = "richard-roberts-9b3b25228"
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
